@@ -20,3 +20,5 @@ This "VID-SS" dataset is accompanied by a subjective study of inpainting quality
 
 
 The MOS.xlsx file contains the mean opinion scores computed from the subjective scores collected in the psychophysical subjective test.
+
+Finally, To get the videos of the dataset, please follow this [Google Drive link](https://drive.google.com/drive/folders/1Z_Uxh1Z_RFUTac9zbTaoKPN_8RneY48p?usp=sharing).
